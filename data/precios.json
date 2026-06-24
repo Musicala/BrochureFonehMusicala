@@ -1,0 +1,181 @@
+{
+  "version": "2.0",
+  "titulo": "Precios Musicala · Convenio Foneh",
+  "moneda": "COP",
+  "nota": "Tarifas preferenciales para asociados Foneh. Aplica para Música, Danza, Teatro y Artes Plásticas.",
+  "actualizacion": "2026",
+  "grupos": [
+    {
+      "id": "sede_personalizado",
+      "nombre": "Sede Personalizado",
+      "descripcion": "Clase individual en sede · Música, Danza, Teatro o Artes",
+      "icono": "🎓",
+      "precios": [
+        { "paquete": "4 clases",  "valor": 296000 },
+        { "paquete": "8 clases",  "valor": 560000 },
+        { "paquete": "12 clases", "valor": 796000 },
+        { "paquete": "24 clases", "valor": 1502000 }
+      ]
+    },
+    {
+      "id": "musifamiliar_sede",
+      "nombre": "Musifamiliar Sede Grupal",
+      "descripcion": "Clase familiar en sede · Grupos familiares",
+      "icono": "👨‍👩‍👧",
+      "precios": [
+        { "paquete": "4 clases",  "valor": 374000 },
+        { "paquete": "8 clases",  "valor": 712000 },
+        { "paquete": "12 clases", "valor": 1010000 },
+        { "paquete": "24 clases", "valor": 1908000 }
+      ]
+    },
+    {
+      "id": "sede_grupal",
+      "nombre": "Sede Grupal",
+      "descripcion": "Clase grupal en sede · Grupos de estudiantes",
+      "icono": "👥",
+      "precios": [
+        { "paquete": "4 clases",  "valor": 160000 },
+        { "paquete": "8 clases",  "valor": 304000 },
+        { "paquete": "12 clases", "valor": 432000 },
+        { "paquete": "24 clases", "valor": 810000 }
+      ]
+    },
+    {
+      "id": "ensambles",
+      "nombre": "Ensambles",
+      "descripcion": "Participación en ensambles musicales grupales",
+      "icono": "🎶",
+      "precios": [
+        { "paquete": "4 clases",  "valor": 80000 },
+        { "paquete": "8 clases",  "valor": 139000 },
+        { "paquete": "12 clases", "valor": 197000 },
+        { "paquete": "24 clases", "valor": 372000 }
+      ]
+    },
+    {
+      "id": "musigym",
+      "nombre": "Musigym",
+      "descripcion": "Entrenamiento musical flexible · Acceso libre por tiempo",
+      "icono": "💪",
+      "precios": [
+        { "paquete": "1 mes",   "valor": 158000 },
+        { "paquete": "2 meses", "valor": 306000 },
+        { "paquete": "3 meses", "valor": 454000 },
+        { "paquete": "6 meses", "valor": 914000 }
+      ]
+    },
+    {
+      "id": "hogar_personalizado",
+      "nombre": "Hogar Personalizado",
+      "descripcion": "El profesor va a tu casa · Clase individual a domicilio",
+      "icono": "🏠",
+      "precios": [
+        { "paquete": "4 clases",  "valor": 354000 },
+        { "paquete": "8 clases",  "valor": 672000 },
+        { "paquete": "12 clases", "valor": 954000 },
+        { "paquete": "24 clases", "valor": 1802000 }
+      ]
+    },
+    {
+      "id": "hogar_musifamiliar",
+      "nombre": "Hogar Musifamiliar Grupal",
+      "descripcion": "El profesor va a tu casa · Clase familiar a domicilio",
+      "icono": "🏡",
+      "precios": [
+        { "paquete": "4 clases",  "valor": 412000 },
+        { "paquete": "8 clases",  "valor": 784000 },
+        { "paquete": "12 clases", "valor": 1114000 },
+        { "paquete": "24 clases", "valor": 2102000 }
+      ]
+    },
+    {
+      "id": "virtual_personalizado",
+      "nombre": "Virtual Personalizado",
+      "descripcion": "Clase virtual individual · Desde cualquier lugar",
+      "icono": "💻",
+      "precios": [
+        { "paquete": "4 clases",  "valor": 266000 },
+        { "paquete": "8 clases",  "valor": 504000 },
+        { "paquete": "12 clases", "valor": 716000 },
+        { "paquete": "24 clases", "valor": 1352000 }
+      ]
+    },
+    {
+      "id": "virtual_grupal",
+      "nombre": "Virtual Grupal",
+      "descripcion": "Clase virtual grupal · Desde cualquier lugar",
+      "icono": "🖥️",
+      "precios": [
+        { "paquete": "4 clases",  "valor": 324000 },
+        { "paquete": "8 clases",  "valor": 616000 },
+        { "paquete": "12 clases", "valor": 876000 },
+        { "paquete": "24 clases", "valor": 1652000 }
+      ]
+    },
+    {
+      "id": "plataforma_online",
+      "nombre": "Plataforma Online",
+      "descripcion": "Acceso ilimitado a cursos en línea · Aprende a tu ritmo",
+      "icono": "📱",
+      "precios": [
+        { "paquete": "1 mes",    "valor": 52000 },
+        { "paquete": "2 meses",  "valor": 102000 },
+        { "paquete": "3 meses",  "valor": 150000 },
+        { "paquete": "6 meses",  "valor": 302000 },
+        { "paquete": "12 meses", "valor": 428000 }
+      ]
+    },
+    {
+      "id": "preu_personalizado",
+      "nombre": "Preuniversitario Personalizado",
+      "descripcion": "Preparación intensiva para audiciones universitarias",
+      "icono": "🎯",
+      "precios": [
+        { "paquete": "9 semanas · 54 clases", "valor": 1988000 }
+      ]
+    },
+    {
+      "id": "preu_grupal",
+      "nombre": "Preuniversitario Grupal",
+      "descripcion": "Preparación grupal para audiciones universitarias",
+      "icono": "🎯",
+      "precios": [
+        { "paquete": "9 semanas · 54 clases", "valor": 1590000 }
+      ]
+    },
+    {
+      "id": "formacion",
+      "nombre": "Curso de Formación",
+      "descripcion": "Curso estructurado de 9 semanas con clases regulares",
+      "icono": "📚",
+      "precios": [
+        { "paquete": "9 semanas · 27 clases", "valor": 636000 },
+        { "paquete": "9 semanas · 36 clases", "valor": 690000 }
+      ]
+    },
+    {
+      "id": "vacacional",
+      "nombre": "Curso Vacacional",
+      "descripcion": "Programa intensivo de vacaciones · Arte y diversión",
+      "icono": "🌟",
+      "precios": [
+        { "paquete": "1 semana · 20 horas", "valor": 368000 },
+        { "paquete": "1 semana · 16 horas", "valor": 296000 }
+      ]
+    },
+    {
+      "id": "taller_empresarial",
+      "nombre": "Taller Empresarial",
+      "descripcion": "Actividades artísticas para equipos corporativos · Team Building",
+      "icono": "🏢",
+      "precios": [
+        { "paquete": "Clase individual",  "valor": 106000 },
+        { "paquete": "4 clases",          "valor": 384000 },
+        { "paquete": "8 clases",          "valor": 728000 },
+        { "paquete": "12 clases",         "valor": 1034000 },
+        { "paquete": "24 clases",         "valor": 1952000 }
+      ]
+    }
+  ]
+}
